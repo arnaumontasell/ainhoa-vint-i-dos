@@ -1,0 +1,2 @@
+Obre index.html per provar la web. Mantén la carpeta mobile-assets al costat del fitxer.
+Per publicar-la, puja index.html i tota la carpeta mobile-assets al repositori de GitHub. El QR continua sent el mateix.
